@@ -1,7 +1,7 @@
-# Gabriel-Bianchi
+# Wiliam-Rosa
 
-Engenheiro de Computação pela Universidade Federal de São Paulo(UNIFESP).
+Engenheiro de Dados especialista em Azure e AWS
 
 <div>
-   <a href="https://www.linkedin.com/in/gabriel-bianchis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/wiliam-rosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
